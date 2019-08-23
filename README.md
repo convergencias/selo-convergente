@@ -29,7 +29,7 @@ As lives ocorrerão através do Google Hangouts (ou Google Meet) no seguinte end
 - [LIVRES](https://www.eusoulivres.org/)
 - [RenovaBR](https://renovabr.org)
 
-A discussão sobre a **Lista dos Convergentes** e outros **Movimentos Cívicos** se derá [aqui](https://github.com/convergencias/selo-convergente/issues/3).
+[Discuta a **Lista dos Convergentes** e outros **Movimentos Cívicos**](https://github.com/convergencias/selo-convergente/issues/3).
 
 ## Envolvidos
 
