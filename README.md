@@ -25,6 +25,7 @@ As lives ocorrerão através do Google Hangouts (ou Google Meet) no seguinte end
 ## Movimentos e Partidos Relacionados
 
 - [Acredito.](https://www.movimentoacredito.org/)
+- [Democracia Colaborativa](https://www.facebook.com/democraciacolaborativa/)
 - [LIVRES](https://www.eusoulivres.org/)
 - [NOVO](https://novo.org.br)
 - [RenovaBR](https://renovabr.org)
