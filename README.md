@@ -31,7 +31,7 @@ As lives ocorrerão através do Google Hangouts (ou Google Meet) no seguinte end
 
 [Discuta a **Lista dos Convergentes** e outros **Movimentos Cívicos**](https://github.com/convergencias/selo-convergente/issues/3).
 
-## Envolvidos
+## Convergentes
 
 - Anapuaka 
 - Antonio Carlos Ribeiro
