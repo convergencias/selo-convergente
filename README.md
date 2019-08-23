@@ -20,21 +20,32 @@ O Selo Convergente tem por objetivo ser o agente catalizador da maioria da popul
 
 A frequência determinada é de uma a cada 15 dias. Os locais das reuniões [está sendo definido](https://github.com/convergencias/selo-convergente/issues/2).
 
+As lives ocorrerão através do Google Hangouts (ou Google Meet) no seguinte endereço: https://meet.google.com/ush-aoba-qrw
+
+## Movimentos e Partidos Relacionados
+
+- [NOVO](https://novo.org.br)
+- [Acredito.](https://www.movimentoacredito.org/)
+- [LIVRES](https://www.eusoulivres.org/)
+- [RenovaBR](https://renovabr.org)
+
+A discussão sobre a **Lista dos Convergentes** e outros **Movimentos Cívicos** se derá [aqui](https://github.com/convergencias/selo-convergente/issues/3).
+
 ## Envolvidos
 
 - Anapuaka 
 - Antonio Carlos Ribeiro
-- Chicão Bulhões 
+- Chicão Bulhões (NOVO)
 - Claudio Coutada 
 - Erick S. 
-- Felipe Carlos de Carvalho 
+- Felipe Carlos de Carvalho (Livres)
 - Gio 
 - Guilherme J.
 - João Luiz Ferreira Costa  
 - Juliet 
 - Lucas Antoun 
 - Orlando Thome 
-- Renan Ferreirinha 
-- Vanessa Aguiar 
+- Renan Ferreirinha (NOVO)
+- Vanessa Aguiar (Acredito!)
 - Vinicius Pecanha 
 - Walter Cavalcante 
