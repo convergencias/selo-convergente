@@ -18,7 +18,7 @@ O Selo Convergente tem por objetivo ser o agente catalizador da maioria da popul
 
 ## Reuniões
 
-A frequência determinada é de uma a cada 15 dias. Os locais das reuniões [está sendo definido](https://github.com/convergencias/selo-convergente/issues/2) ainda.
+A frequência determinada é de uma a cada 15 dias. Os locais das reuniões [está sendo definido](https://github.com/convergencias/selo-convergente/issues/2).
 
 ## Envolvidos
 
