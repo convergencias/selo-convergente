@@ -16,6 +16,10 @@ O Selo Convergente tem por objetivo ser o agente catalizador da maioria da popul
 - Construindo e ampliando a rede com outras organizações e atores políticos. Por entendermos que existem movimentos cívicos bem estruturados, identificados com a Convergência e capacitados para ampliar, enriquecer e difundir o Selo, em breve buscaremos tecer uma rede de parceiros convergentes sendo naturalmente certificadores
 - Criando uma Agenda política e programática
 
+## Reuniões
+
+A frequência determinada é de uma a cada 15 dias. Os locais das reuniões [está sendo definido](https://github.com/convergencias/selo-convergente/issues/2) ainda.
+
 ## Envolvidos
 
 - Anapuaka 
